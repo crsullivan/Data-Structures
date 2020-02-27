@@ -4,6 +4,7 @@ import sys
 import io
 from binary_search_tree import BinarySearchTree
 
+print('TEST FILE', sys.version)
 
 class BinarySearchTreeTests(unittest.TestCase):
     def setUp(self):
